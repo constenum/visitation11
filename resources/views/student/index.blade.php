@@ -16,7 +16,7 @@
 </head>
 <body>
 <div class="font-sans text-gray-900 antialiased">
-    <header class="mt-16 text-6xl text-center text-[#0c6cb4]">Welcome to St. Urusla Academy</header>
+    <header class="mt-16 text-6xl text-center text-[#0c6cb4]">Welcome to St. Ursula Academy</header>
 
     @if(Session::has('flash_message'))
         <div class="mx-96 mt-16 bg-green-100 border-l-4 border-green-500 text-green-700 p-4" role="alert">

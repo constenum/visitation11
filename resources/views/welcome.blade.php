@@ -17,7 +17,7 @@
 <body>
 <div class="font-sans text-gray-900 antialiased">
     <header class="mt-16 text-6xl text-center text-[#0c6cb4]">
-        <p>Welcome to St. Urusla Academy</p>
+        <p>Welcome to St. Ursula Academy</p>
         <div class="flex justify-center my-12">
             <a href="/">
                 <x-sua-logo class="w-500 h-500 fill-current text-gray-500" />

@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="font-sans text-gray-900 antialiased">
-    <header class="mt-16 text-6xl text-center text-[#0c6cb4]">Welcome to St. Urusla Academy</header>
+    <header class="mt-16 text-6xl text-center text-[#0c6cb4]">Welcome to St. Ursula Academy</header>
 
     <div class="mt-16 ml-96 mr-96 text-center">
         <form method="POST" action="/student">
